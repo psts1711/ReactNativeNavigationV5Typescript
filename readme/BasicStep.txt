@@ -1,0 +1,15 @@
+tsc --init			// create tsconfig.json
+tsc -v
+npm install -g typescript
+
+npm install -g react-native-cli			// only first time
+react-native -v
+react-native init ReactNativeCourse
+
+
+// typescript setup
+yarn add react-native-typescript-transformer tslint tslint-config-prettier tslint-react-recommended typescript
+npm install react-native-typescript-transformer tslint tslint-config-prettier tslint-react-recommended typescript
+
+// remove package from package.json
+yarn remove eslint

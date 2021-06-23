@@ -1,0 +1,5 @@
+rn-cli.config.js
+tsconfig.json
+tslint.json
+
+yarn add @react-navigation/bottom-tabs @react-navigation/native @react-navigation/stack @react-navigation/drawer react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
